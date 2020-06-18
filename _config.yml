@@ -2,4 +2,5 @@ theme: jekyll-theme-slate
 title: Welcome pdk ship homepage!
 description: bookmark sub home page
 github:
+  repository_url: https://github.com/open-dis
   is_project_page: false

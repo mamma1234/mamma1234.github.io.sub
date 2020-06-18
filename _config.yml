@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome pdk ship homepage!
 description: bookmark sub home page
+github:
+  is_project_page: false

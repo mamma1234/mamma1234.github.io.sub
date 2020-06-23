@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/mamma1234.github.io.sub.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mamma1234.github.io.sub.git/static/js/main.52690fdb.chunk.js",
-    "main.js.map": "/mamma1234.github.io.sub.git/static/js/main.52690fdb.chunk.js.map",
+    "main.css": "/mamma1234.github.io.sub.git/static/css/main.8ce4658d.chunk.css",
+    "main.js": "/mamma1234.github.io.sub.git/static/js/main.a1236360.chunk.js",
+    "main.js.map": "/mamma1234.github.io.sub.git/static/js/main.a1236360.chunk.js.map",
     "runtime-main.js": "/mamma1234.github.io.sub.git/static/js/runtime-main.9bcf0486.js",
     "runtime-main.js.map": "/mamma1234.github.io.sub.git/static/js/runtime-main.9bcf0486.js.map",
-    "static/js/2.e1fb1565.chunk.js": "/mamma1234.github.io.sub.git/static/js/2.e1fb1565.chunk.js",
-    "static/js/2.e1fb1565.chunk.js.map": "/mamma1234.github.io.sub.git/static/js/2.e1fb1565.chunk.js.map",
+    "static/js/2.68e17161.chunk.js": "/mamma1234.github.io.sub.git/static/js/2.68e17161.chunk.js",
+    "static/js/2.68e17161.chunk.js.map": "/mamma1234.github.io.sub.git/static/js/2.68e17161.chunk.js.map",
     "index.html": "/mamma1234.github.io.sub.git/index.html",
-    "precache-manifest.b675f8c3a74587a79b4d380c9eeb68ee.js": "/mamma1234.github.io.sub.git/precache-manifest.b675f8c3a74587a79b4d380c9eeb68ee.js",
+    "precache-manifest.d0631974fc1f06ab01241b8d3a397815.js": "/mamma1234.github.io.sub.git/precache-manifest.d0631974fc1f06ab01241b8d3a397815.js",
     "service-worker.js": "/mamma1234.github.io.sub.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mamma1234.github.io.sub.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e1fb1565.chunk.js.LICENSE.txt": "/mamma1234.github.io.sub.git/static/js/2.e1fb1565.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mamma1234.github.io.sub.git/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8ce4658d.chunk.css.map": "/mamma1234.github.io.sub.git/static/css/main.8ce4658d.chunk.css.map",
+    "static/js/2.68e17161.chunk.js.LICENSE.txt": "/mamma1234.github.io.sub.git/static/js/2.68e17161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9bcf0486.js",
-    "static/js/2.e1fb1565.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.52690fdb.chunk.js"
+    "static/js/2.68e17161.chunk.js",
+    "static/css/main.8ce4658d.chunk.css",
+    "static/js/main.a1236360.chunk.js"
   ]
 }

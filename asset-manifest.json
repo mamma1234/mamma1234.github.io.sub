@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mamma1234.github.io.sub/static/css/main.8ce4658d.chunk.css",
-    "main.js": "/mamma1234.github.io.sub/static/js/main.e922c647.chunk.js",
-    "main.js.map": "/mamma1234.github.io.sub/static/js/main.e922c647.chunk.js.map",
-    "runtime-main.js": "/mamma1234.github.io.sub/static/js/runtime-main.349826b4.js",
-    "runtime-main.js.map": "/mamma1234.github.io.sub/static/js/runtime-main.349826b4.js.map",
-    "static/js/2.68e17161.chunk.js": "/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js",
-    "static/js/2.68e17161.chunk.js.map": "/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js.map",
-    "index.html": "/mamma1234.github.io.sub/index.html",
-    "precache-manifest.31599f7bc811fa5590b2dc708bb75fec.js": "/mamma1234.github.io.sub/precache-manifest.31599f7bc811fa5590b2dc708bb75fec.js",
-    "service-worker.js": "/mamma1234.github.io.sub/service-worker.js",
-    "static/css/main.8ce4658d.chunk.css.map": "/mamma1234.github.io.sub/static/css/main.8ce4658d.chunk.css.map",
-    "static/js/2.68e17161.chunk.js.LICENSE.txt": "/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js.LICENSE.txt"
+    "main.css": "/mamma1234/mamma1234.github.io.sub/static/css/main.8ce4658d.chunk.css",
+    "main.js": "/mamma1234/mamma1234.github.io.sub/static/js/main.1868e7ff.chunk.js",
+    "main.js.map": "/mamma1234/mamma1234.github.io.sub/static/js/main.1868e7ff.chunk.js.map",
+    "runtime-main.js": "/mamma1234/mamma1234.github.io.sub/static/js/runtime-main.17011c76.js",
+    "runtime-main.js.map": "/mamma1234/mamma1234.github.io.sub/static/js/runtime-main.17011c76.js.map",
+    "static/js/2.68e17161.chunk.js": "/mamma1234/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js",
+    "static/js/2.68e17161.chunk.js.map": "/mamma1234/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js.map",
+    "index.html": "/mamma1234/mamma1234.github.io.sub/index.html",
+    "precache-manifest.3990703139b4b2d80a35bf2c06d0a18f.js": "/mamma1234/mamma1234.github.io.sub/precache-manifest.3990703139b4b2d80a35bf2c06d0a18f.js",
+    "service-worker.js": "/mamma1234/mamma1234.github.io.sub/service-worker.js",
+    "static/css/main.8ce4658d.chunk.css.map": "/mamma1234/mamma1234.github.io.sub/static/css/main.8ce4658d.chunk.css.map",
+    "static/js/2.68e17161.chunk.js.LICENSE.txt": "/mamma1234/mamma1234.github.io.sub/static/js/2.68e17161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.349826b4.js",
+    "static/js/runtime-main.17011c76.js",
     "static/js/2.68e17161.chunk.js",
     "static/css/main.8ce4658d.chunk.css",
-    "static/js/main.e922c647.chunk.js"
+    "static/js/main.1868e7ff.chunk.js"
   ]
 }

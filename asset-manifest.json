@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://mamma1234.github.io.sub/static/css/main.5f361e03.chunk.css",
+    "main.js": "/https://mamma1234.github.io.sub/static/js/main.1acd7c74.chunk.js",
+    "main.js.map": "/https://mamma1234.github.io.sub/static/js/main.1acd7c74.chunk.js.map",
+    "runtime-main.js": "/https://mamma1234.github.io.sub/static/js/runtime-main.b3d06abb.js",
+    "runtime-main.js.map": "/https://mamma1234.github.io.sub/static/js/runtime-main.b3d06abb.js.map",
+    "static/js/2.e1fb1565.chunk.js": "/https://mamma1234.github.io.sub/static/js/2.e1fb1565.chunk.js",
+    "static/js/2.e1fb1565.chunk.js.map": "/https://mamma1234.github.io.sub/static/js/2.e1fb1565.chunk.js.map",
+    "index.html": "/https://mamma1234.github.io.sub/index.html",
+    "precache-manifest.144566f5ba46d79fab2b936658c0391b.js": "/https://mamma1234.github.io.sub/precache-manifest.144566f5ba46d79fab2b936658c0391b.js",
+    "service-worker.js": "/https://mamma1234.github.io.sub/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/https://mamma1234.github.io.sub/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e1fb1565.chunk.js.LICENSE.txt": "/https://mamma1234.github.io.sub/static/js/2.e1fb1565.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/https://mamma1234.github.io.sub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d06abb.js",
+    "static/js/2.e1fb1565.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1acd7c74.chunk.js"
+  ]
+}
